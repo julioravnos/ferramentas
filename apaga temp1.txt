@@ -1,0 +1,4 @@
+
+@ECHO - oculta o prompt durante toda execução
+del /q /f /s %windir%\Temp *.*
+pasuse
